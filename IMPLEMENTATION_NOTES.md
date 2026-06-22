@@ -34,9 +34,6 @@
 
 - Run the demo:
   - `python3 demo/simulate.py`
-- Run tests in the local virtual environment:
-  - `source .venv/bin/activate`
-  - `python3 -m pytest -q tests`
 
 ## Notes
 
