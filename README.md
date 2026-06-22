@@ -171,10 +171,6 @@ This project demonstrates:
 - Comprehensive testing practices
 - Clean code principles (SOLID)
 
-## 📝 License
-
-MIT
-
 ---
 
 **Built for**: Assignment AQB (Token Bucket Rate Limiter)  
