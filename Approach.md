@@ -130,4 +130,4 @@ bucket = 50
 request =30
 remain = 20
 
-(we need to cap at 100 no more refills allowed after this)
+(we need to cap the bucket at 100, no more refills allowed after this)
